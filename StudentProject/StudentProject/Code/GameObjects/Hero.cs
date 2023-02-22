@@ -9,6 +9,7 @@ namespace StudentProject.Code.GameObjects
     {
         public Hero()
         {
+        //dont forget to code comment, helps everyone read the code and help understand whats happening - Taylor
             SetSprite("Hero");
         }
         public override void Update(float deltaTime)
