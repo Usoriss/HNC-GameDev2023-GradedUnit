@@ -9,7 +9,7 @@ namespace StudentProject.Code.GameObjects
     {
         public Enemy()
         {
-            SetSprite("EnemyTemp");
+            SetSprite("Enemy");
         }
         public override void Update(float deltaTime)
         {

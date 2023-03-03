@@ -20,6 +20,7 @@ namespace StudentProject.Code.GameObjects
         }
         private void CheckForObstacles()
         {
+            //
             if (IsAtScreenEdge() || IsTouching<Ground>())
                 RevertPosition();
             if (IsAtScreenEdge() || IsTouching<Box>())
@@ -27,9 +28,15 @@ namespace StudentProject.Code.GameObjects
         }
         private void CheckColissions()
         {
+            /*
+              this following code allows the player to interact with the apples, increasing score. 
+              This allows the user to see that they successfully interacted with the item
+            */
             GameObject obj = GetOneIntersectingObject<Apple>();
+            //this tells the program that if something is inside the program to do the following.
             if (obj != null)
             {
+                //in this case it tells the hero class to add 10 score and to get rid of the apple
                 GetScreen().GetOneObjectOfType<Hero>().AddScore(10);
                 GetScreen().RemoveObject(obj);
             }
@@ -76,9 +83,10 @@ namespace StudentProject.Code.GameObjects
             {
                 GetScreen().AddObject(bullet, (int)GetX(), (int)GetY());
             }             //For jumping. P.S: Needs fixing.
-            if (GameInput.IsKeyHeld("Space"))
+            if (GameInput.IsKeyHeld("Space") || IsTouching<Ground>())
             {
                 //canJump = false;
+                //timer goes down when jumping, when hitting zero you can no longer jump, this will be obsolete soon
                 SetPosition(GetX(), GetY() - 11);
                 jumpTimer--;
                 CheckForObstacles(); if (jumpTimer <= 0)
