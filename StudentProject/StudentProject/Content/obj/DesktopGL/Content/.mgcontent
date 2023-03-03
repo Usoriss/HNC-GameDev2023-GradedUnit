@@ -4,14 +4,14 @@
   <Platform>DesktopGL</Platform>
   <Config />
   <SourceFiles>
-    <File>C:/Users/tayta/Source/Repos/Usoriss/HNC-GameDev2023-GradedUnit/StudentProject/StudentProject/Content/images/Enemy.png</File>
-    <File>C:/Users/tayta/Source/Repos/Usoriss/HNC-GameDev2023-GradedUnit/StudentProject/StudentProject/Content/images/Hero.png</File>
-    <File>C:/Users/tayta/Source/Repos/Usoriss/HNC-GameDev2023-GradedUnit/StudentProject/StudentProject/Content/images/Key.png</File>
-    <File>C:/Users/tayta/Source/Repos/Usoriss/HNC-GameDev2023-GradedUnit/StudentProject/StudentProject/Content/images/SimpleBackground.png</File>
-    <File>C:/Users/tayta/Source/Repos/Usoriss/HNC-GameDev2023-GradedUnit/StudentProject/StudentProject/Content/images/Wall.png</File>
-    <File>C:/Users/tayta/Source/Repos/Usoriss/HNC-GameDev2023-GradedUnit/StudentProject/StudentProject/Content/misc/Arial.spritefont</File>
-    <File>C:/Users/tayta/Source/Repos/Usoriss/HNC-GameDev2023-GradedUnit/StudentProject/StudentProject/Content/misc/BackgroundShader.fx</File>
-    <File>C:/Users/tayta/Source/Repos/Usoriss/HNC-GameDev2023-GradedUnit/StudentProject/StudentProject/Content/misc/Pixel.png</File>
+    <File>C:/Users/1622397.AD/Source/Repos/HNC-GameDev2023-GradedUnit/StudentProject/StudentProject/Content/images/Enemy.png</File>
+    <File>C:/Users/1622397.AD/Source/Repos/HNC-GameDev2023-GradedUnit/StudentProject/StudentProject/Content/images/Hero.png</File>
+    <File>C:/Users/1622397.AD/Source/Repos/HNC-GameDev2023-GradedUnit/StudentProject/StudentProject/Content/images/Key.png</File>
+    <File>C:/Users/1622397.AD/Source/Repos/HNC-GameDev2023-GradedUnit/StudentProject/StudentProject/Content/images/SimpleBackground.png</File>
+    <File>C:/Users/1622397.AD/Source/Repos/HNC-GameDev2023-GradedUnit/StudentProject/StudentProject/Content/images/Wall.png</File>
+    <File>C:/Users/1622397.AD/Source/Repos/HNC-GameDev2023-GradedUnit/StudentProject/StudentProject/Content/misc/Arial.spritefont</File>
+    <File>C:/Users/1622397.AD/Source/Repos/HNC-GameDev2023-GradedUnit/StudentProject/StudentProject/Content/misc/BackgroundShader.fx</File>
+    <File>C:/Users/1622397.AD/Source/Repos/HNC-GameDev2023-GradedUnit/StudentProject/StudentProject/Content/misc/Pixel.png</File>
   </SourceFiles>
   <DestFiles>
     <File xsi:nil="true" />

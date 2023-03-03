@@ -167,3 +167,72 @@ C:\Users\tayta\Source\Repos\Usoriss\HNC-GameDev2023-GradedUnit\StudentProject\St
 C:\Users\tayta\Source\Repos\Usoriss\HNC-GameDev2023-GradedUnit\StudentProject\StudentProject\bin\Debug\netcoreapp3.1\Content\images\Player.xnb
 C:\Users\tayta\Source\Repos\Usoriss\HNC-GameDev2023-GradedUnit\StudentProject\StudentProject\bin\Debug\netcoreapp3.1\Content\images\PlayerIdle1.xnb
 C:\Users\tayta\Source\Repos\Usoriss\HNC-GameDev2023-GradedUnit\StudentProject\StudentProject\bin\Debug\netcoreapp3.1\Content\images\Scaffolding.xnb
+C:\Users\1622397.AD\Source\Repos\HNC-GameDev2023-GradedUnit\StudentProject\StudentProject\bin\Debug\netcoreapp3.1\Content\Arial.xnb
+C:\Users\1622397.AD\Source\Repos\HNC-GameDev2023-GradedUnit\StudentProject\StudentProject\bin\Debug\netcoreapp3.1\Content\Arial12.xnb
+C:\Users\1622397.AD\Source\Repos\HNC-GameDev2023-GradedUnit\StudentProject\StudentProject\bin\Debug\netcoreapp3.1\Content\Arial14.xnb
+C:\Users\1622397.AD\Source\Repos\HNC-GameDev2023-GradedUnit\StudentProject\StudentProject\bin\Debug\netcoreapp3.1\Content\Arial18.xnb
+C:\Users\1622397.AD\Source\Repos\HNC-GameDev2023-GradedUnit\StudentProject\StudentProject\bin\Debug\netcoreapp3.1\Content\BackgroundShader.xnb
+C:\Users\1622397.AD\Source\Repos\HNC-GameDev2023-GradedUnit\StudentProject\StudentProject\bin\Debug\netcoreapp3.1\Content\Enemy.xnb
+C:\Users\1622397.AD\Source\Repos\HNC-GameDev2023-GradedUnit\StudentProject\StudentProject\bin\Debug\netcoreapp3.1\Content\Hero.xnb
+C:\Users\1622397.AD\Source\Repos\HNC-GameDev2023-GradedUnit\StudentProject\StudentProject\bin\Debug\netcoreapp3.1\Content\images\Apple.xnb
+C:\Users\1622397.AD\Source\Repos\HNC-GameDev2023-GradedUnit\StudentProject\StudentProject\bin\Debug\netcoreapp3.1\Content\images\Apple1.xnb
+C:\Users\1622397.AD\Source\Repos\HNC-GameDev2023-GradedUnit\StudentProject\StudentProject\bin\Debug\netcoreapp3.1\Content\images\Apple2.xnb
+C:\Users\1622397.AD\Source\Repos\HNC-GameDev2023-GradedUnit\StudentProject\StudentProject\bin\Debug\netcoreapp3.1\Content\images\Barrel Broken.xnb
+C:\Users\1622397.AD\Source\Repos\HNC-GameDev2023-GradedUnit\StudentProject\StudentProject\bin\Debug\netcoreapp3.1\Content\images\Barrel Damaged.xnb
+C:\Users\1622397.AD\Source\Repos\HNC-GameDev2023-GradedUnit\StudentProject\StudentProject\bin\Debug\netcoreapp3.1\Content\images\Barrel.xnb
+C:\Users\1622397.AD\Source\Repos\HNC-GameDev2023-GradedUnit\StudentProject\StudentProject\bin\Debug\netcoreapp3.1\Content\images\Box Broken.xnb
+C:\Users\1622397.AD\Source\Repos\HNC-GameDev2023-GradedUnit\StudentProject\StudentProject\bin\Debug\netcoreapp3.1\Content\images\Box Damaged.xnb
+C:\Users\1622397.AD\Source\Repos\HNC-GameDev2023-GradedUnit\StudentProject\StudentProject\bin\Debug\netcoreapp3.1\Content\images\Box.xnb
+C:\Users\1622397.AD\Source\Repos\HNC-GameDev2023-GradedUnit\StudentProject\StudentProject\bin\Debug\netcoreapp3.1\Content\images\boxHealthAnim.xnb
+C:\Users\1622397.AD\Source\Repos\HNC-GameDev2023-GradedUnit\StudentProject\StudentProject\bin\Debug\netcoreapp3.1\Content\images\Bullet.xnb
+C:\Users\1622397.AD\Source\Repos\HNC-GameDev2023-GradedUnit\StudentProject\StudentProject\bin\Debug\netcoreapp3.1\Content\images\Enemy Attack.xnb
+C:\Users\1622397.AD\Source\Repos\HNC-GameDev2023-GradedUnit\StudentProject\StudentProject\bin\Debug\netcoreapp3.1\Content\images\Enemy Damaged.xnb
+C:\Users\1622397.AD\Source\Repos\HNC-GameDev2023-GradedUnit\StudentProject\StudentProject\bin\Debug\netcoreapp3.1\Content\images\Ground1.xnb
+C:\Users\1622397.AD\Source\Repos\HNC-GameDev2023-GradedUnit\StudentProject\StudentProject\bin\Debug\netcoreapp3.1\Content\images\Ground2.xnb
+C:\Users\1622397.AD\Source\Repos\HNC-GameDev2023-GradedUnit\StudentProject\StudentProject\bin\Debug\netcoreapp3.1\Content\images\Ground3.xnb
+C:\Users\1622397.AD\Source\Repos\HNC-GameDev2023-GradedUnit\StudentProject\StudentProject\bin\Debug\netcoreapp3.1\Content\images\Ground4.xnb
+C:\Users\1622397.AD\Source\Repos\HNC-GameDev2023-GradedUnit\StudentProject\StudentProject\bin\Debug\netcoreapp3.1\Content\images\LevelOne.xnb
+C:\Users\1622397.AD\Source\Repos\HNC-GameDev2023-GradedUnit\StudentProject\StudentProject\bin\Debug\netcoreapp3.1\Content\images\Platform.xnb
+C:\Users\1622397.AD\Source\Repos\HNC-GameDev2023-GradedUnit\StudentProject\StudentProject\bin\Debug\netcoreapp3.1\Content\images\Player Attack.xnb
+C:\Users\1622397.AD\Source\Repos\HNC-GameDev2023-GradedUnit\StudentProject\StudentProject\bin\Debug\netcoreapp3.1\Content\images\Player Damaged.xnb
+C:\Users\1622397.AD\Source\Repos\HNC-GameDev2023-GradedUnit\StudentProject\StudentProject\bin\Debug\netcoreapp3.1\Content\images\Player.xnb
+C:\Users\1622397.AD\Source\Repos\HNC-GameDev2023-GradedUnit\StudentProject\StudentProject\bin\Debug\netcoreapp3.1\Content\images\PlayerIdle1.xnb
+C:\Users\1622397.AD\Source\Repos\HNC-GameDev2023-GradedUnit\StudentProject\StudentProject\bin\Debug\netcoreapp3.1\Content\images\Scaffolding.xnb
+C:\Users\1622397.AD\Source\Repos\HNC-GameDev2023-GradedUnit\StudentProject\StudentProject\bin\Debug\netcoreapp3.1\Content\Key.xnb
+C:\Users\1622397.AD\Source\Repos\HNC-GameDev2023-GradedUnit\StudentProject\StudentProject\bin\Debug\netcoreapp3.1\Content\mario.xnb
+C:\Users\1622397.AD\Source\Repos\HNC-GameDev2023-GradedUnit\StudentProject\StudentProject\bin\Debug\netcoreapp3.1\Content\Pixel.xnb
+C:\Users\1622397.AD\Source\Repos\HNC-GameDev2023-GradedUnit\StudentProject\StudentProject\bin\Debug\netcoreapp3.1\Content\SimpleBackground.xnb
+C:\Users\1622397.AD\Source\Repos\HNC-GameDev2023-GradedUnit\StudentProject\StudentProject\bin\Debug\netcoreapp3.1\Content\Wall.xnb
+C:\Users\1622397.AD\Source\Repos\HNC-GameDev2023-GradedUnit\StudentProject\StudentProject\bin\Debug\netcoreapp3.1\Content\images\Enemy.xnb
+C:\Users\1622397.AD\Source\Repos\HNC-GameDev2023-GradedUnit\StudentProject\StudentProject\bin\Debug\netcoreapp3.1\Content\images\Hero.xnb
+C:\Users\1622397.AD\Source\Repos\HNC-GameDev2023-GradedUnit\StudentProject\StudentProject\bin\Debug\netcoreapp3.1\Content\images\Key.xnb
+C:\Users\1622397.AD\Source\Repos\HNC-GameDev2023-GradedUnit\StudentProject\StudentProject\bin\Debug\netcoreapp3.1\Content\images\SimpleBackground.xnb
+C:\Users\1622397.AD\Source\Repos\HNC-GameDev2023-GradedUnit\StudentProject\StudentProject\bin\Debug\netcoreapp3.1\Content\images\Wall.xnb
+C:\Users\1622397.AD\Source\Repos\HNC-GameDev2023-GradedUnit\StudentProject\StudentProject\bin\Debug\netcoreapp3.1\Content\misc\Arial.xnb
+C:\Users\1622397.AD\Source\Repos\HNC-GameDev2023-GradedUnit\StudentProject\StudentProject\bin\Debug\netcoreapp3.1\Content\misc\BackgroundShader.xnb
+C:\Users\1622397.AD\Source\Repos\HNC-GameDev2023-GradedUnit\StudentProject\StudentProject\bin\Debug\netcoreapp3.1\Content\misc\Pixel.xnb
+C:\Users\1622397.AD\Source\Repos\HNC-GameDev2023-GradedUnit\StudentProject\StudentProject\bin\Debug\netcoreapp3.1\StudentProject.exe
+C:\Users\1622397.AD\Source\Repos\HNC-GameDev2023-GradedUnit\StudentProject\StudentProject\bin\Debug\netcoreapp3.1\StudentProject.deps.json
+C:\Users\1622397.AD\Source\Repos\HNC-GameDev2023-GradedUnit\StudentProject\StudentProject\bin\Debug\netcoreapp3.1\StudentProject.runtimeconfig.json
+C:\Users\1622397.AD\Source\Repos\HNC-GameDev2023-GradedUnit\StudentProject\StudentProject\bin\Debug\netcoreapp3.1\StudentProject.runtimeconfig.dev.json
+C:\Users\1622397.AD\Source\Repos\HNC-GameDev2023-GradedUnit\StudentProject\StudentProject\bin\Debug\netcoreapp3.1\StudentProject.dll
+C:\Users\1622397.AD\Source\Repos\HNC-GameDev2023-GradedUnit\StudentProject\StudentProject\bin\Debug\netcoreapp3.1\StudentProject.pdb
+C:\Users\1622397.AD\Source\Repos\HNC-GameDev2023-GradedUnit\StudentProject\StudentProject\bin\Debug\netcoreapp3.1\MonoGame.Framework.dll
+C:\Users\1622397.AD\Source\Repos\HNC-GameDev2023-GradedUnit\StudentProject\StudentProject\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libSDL2-2.0.so.0
+C:\Users\1622397.AD\Source\Repos\HNC-GameDev2023-GradedUnit\StudentProject\StudentProject\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libopenal.so.1
+C:\Users\1622397.AD\Source\Repos\HNC-GameDev2023-GradedUnit\StudentProject\StudentProject\bin\Debug\netcoreapp3.1\runtimes\osx\native\libSDL2-2.0.0.dylib
+C:\Users\1622397.AD\Source\Repos\HNC-GameDev2023-GradedUnit\StudentProject\StudentProject\bin\Debug\netcoreapp3.1\runtimes\osx\native\libopenal.1.dylib
+C:\Users\1622397.AD\Source\Repos\HNC-GameDev2023-GradedUnit\StudentProject\StudentProject\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\SDL2.dll
+C:\Users\1622397.AD\Source\Repos\HNC-GameDev2023-GradedUnit\StudentProject\StudentProject\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\soft_oal.dll
+C:\Users\1622397.AD\Source\Repos\HNC-GameDev2023-GradedUnit\StudentProject\StudentProject\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\SDL2.dll
+C:\Users\1622397.AD\Source\Repos\HNC-GameDev2023-GradedUnit\StudentProject\StudentProject\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\soft_oal.dll
+C:\Users\1622397.AD\Source\Repos\HNC-GameDev2023-GradedUnit\StudentProject\StudentProject\bin\Debug\netcoreapp3.1\MonoGameEngine.dll
+C:\Users\1622397.AD\Source\Repos\HNC-GameDev2023-GradedUnit\StudentProject\StudentProject\obj\Debug\netcoreapp3.1\StudentProject.csproj.AssemblyReference.cache
+C:\Users\1622397.AD\Source\Repos\HNC-GameDev2023-GradedUnit\StudentProject\StudentProject\obj\Debug\netcoreapp3.1\StudentProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\1622397.AD\Source\Repos\HNC-GameDev2023-GradedUnit\StudentProject\StudentProject\obj\Debug\netcoreapp3.1\StudentProject.AssemblyInfoInputs.cache
+C:\Users\1622397.AD\Source\Repos\HNC-GameDev2023-GradedUnit\StudentProject\StudentProject\obj\Debug\netcoreapp3.1\StudentProject.AssemblyInfo.cs
+C:\Users\1622397.AD\Source\Repos\HNC-GameDev2023-GradedUnit\StudentProject\StudentProject\obj\Debug\netcoreapp3.1\StudentProject.csproj.CoreCompileInputs.cache
+C:\Users\1622397.AD\Source\Repos\HNC-GameDev2023-GradedUnit\StudentProject\StudentProject\obj\Debug\netcoreapp3.1\StudentProject.csproj.CopyComplete
+C:\Users\1622397.AD\Source\Repos\HNC-GameDev2023-GradedUnit\StudentProject\StudentProject\obj\Debug\netcoreapp3.1\StudentProject.dll
+C:\Users\1622397.AD\Source\Repos\HNC-GameDev2023-GradedUnit\StudentProject\StudentProject\obj\Debug\netcoreapp3.1\StudentProject.pdb
+C:\Users\1622397.AD\Source\Repos\HNC-GameDev2023-GradedUnit\StudentProject\StudentProject\obj\Debug\netcoreapp3.1\StudentProject.genruntimeconfig.cache
