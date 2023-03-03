@@ -13,8 +13,15 @@ namespace StudentProject.Code.Screens
             base.Start(core);
 
             // TODO: Add your Screen starting code below here
-            Settings.BackgroundFill = Color.DarkRed;
-            SetBackground("Hero");
+            //this follwing code will change the resolution of the game and the window, this allows me to see
+            //when using this absoute tragedy of an aspect ratio. None should have to suffer this.
+            /*
+             changing the old Vector2 to a new value allows the change in resolution !!!!!!!REMEMBER THIS!!!!!!!
+             */
+            Settings.GameResolution = new Vector2(960f, 540f);
+            Settings.ScreenDimensions = new Vector2(960f, 540f);
+            Settings.BackgroundFill = Microsoft.Xna.Framework.Color.DarkRed;
+            SetBackground("LevelOne");
 
             AddObject(new Hero(), 100, 200);
 
